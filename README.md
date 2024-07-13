@@ -14,10 +14,10 @@ Used to perform the BMI calculation whenever the height or weight state changes.
 ## Screenshots
 
 - Initial Look:
-  ![picture alt](.s1.png")
+  ![picture alt](.s1.png)
 
 - Input weight and height:
-  ![picture alt](.s2.png")
+  ![picture alt](.s2.png)
 
 ## Contributing
 
